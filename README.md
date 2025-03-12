@@ -1,9 +1,9 @@
-#Project: Customer Segmentation and Transaction Analysis for Business Insights
-Objective: Conducted comprehensive customer segmentation using transactional data to derive actionable insights and optimize business strategies.
+# Project: Customer Segmentation and Transaction Analysis for Business Insights
+## Objective: Conducted comprehensive customer segmentation using transactional data to derive actionable insights and optimize business strategies.
 
-Key Responsibilities:
+## Key Responsibilities:
 
-Data Transformation and Aggregation: Preprocessed and aggregated transactional data at the customer level to derive meaningful metrics, including total spending, purchase intervals, and most common purchase locations.
+* Data Transformation and Aggregation: Preprocessed and aggregated transactional data at the customer level to derive meaningful metrics, including total spending, purchase intervals, and most common purchase locations.
 Dimensionality Reduction and Clustering: Applied K-Means clustering for initial segmentation based on customer spending, and used DBSCAN for advanced clustering to identify natural groupings and outliers.
 Performance Analysis: Analyzed and visualized clustering results, providing detailed summaries for each customer segment to support data-driven decision-making.
 Business Reporting: Generated comprehensive reports detailing the characteristics of each customer segment, offering strategic recommendations for targeted marketing and customer retention.
