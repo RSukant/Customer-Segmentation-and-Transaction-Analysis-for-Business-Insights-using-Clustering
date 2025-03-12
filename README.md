@@ -10,5 +10,5 @@ Objective: Conducted comprehensive customer segmentation using transactional dat
 ## Impact and Relevance:
 
 - Industry Relevance: Customer segmentation is a critical process in retail and e-commerce, enabling businesses to personalize marketing efforts, improve customer satisfaction, and increase revenue.
-Techniques and Methods: Utilized K-Means clustering for initial segmentation and DBSCAN for advanced analysis, demonstrating proficiency in both centroid-based and density-based clustering techniques.
+- Techniques and Methods: Utilized K-Means clustering for initial segmentation and DBSCAN for advanced analysis, demonstrating proficiency in both centroid-based and density-based clustering techniques.
 - Actionable Insights: Provided businesses with a clear understanding of different customer segments, helping them to tailor their marketing strategies and improve overall customer engagement.
